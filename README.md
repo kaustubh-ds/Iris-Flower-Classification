@@ -1,6 +1,6 @@
 # Iris Flower Classification 
 
-- Analysis on 3 types of Iris flower
+- Analysis on 3 types of Iris flower: Setosa, Versicolor, Virginica)
 - Analysing & visualising data
   Training data
   Building model
